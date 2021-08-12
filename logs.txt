@@ -1,0 +1,39 @@
+06-08-2021 14:20:48 INFO     [app.py:12 Loading books list.....
+06-08-2021 14:20:50 INFO     [books_page.py:24 Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+06-08-2021 14:21:35 INFO     [menu.py:30 Find the next book from the generator...
+06-08-2021 14:21:35 INFO     [menu.py:16 Find the best book by rating...
+06-08-2021 14:21:36 INFO     [menu.py:22 Find the best book by price...
+11-08-2021 14:01:25 INFO     [app.py:12 Loading books list.....
+11-08-2021 14:01:27 INFO     [books_page.py:24 Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+11-08-2021 15:17:15 INFO     [app.py:12 Loading books list.....
+11-08-2021 15:17:17 INFO     [books_page.py:24 Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+12-08-2021 11:54:00 INFO     [app.py:15 Loading books list.....
+12-08-2021 11:54:02 INFO     [books_page.py:24 Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+12-08-2021 11:55:17 INFO     [app.py:15 Loading books list.....
+12-08-2021 11:55:19 INFO     [books_page.py:24 Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
+12-08-2021 11:55:41 INFO     [app.py:15 Loading books list.....
+12-08-2021 11:55:42 INFO     [books_page.py:24 Found number of catalogue pages available: `
+            
+                Page 1 of 50
+            
+            `.
